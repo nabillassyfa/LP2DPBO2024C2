@@ -1,3 +1,6 @@
+Saya Nabilla Assyfa Ramadhani [2205297] mengerjakan Latihan dalam mata Desain dan Pemograman Berorientasi Objek untuk keberkahanNya maka saya tidak melakukan kecurangan seperti yang telah dispesifikasikan. Aamiin
+
+<br><br>
 # Desain Kelas
 ### Multi-Level Inheritance
  ![alt text](https://github.com/nabillassyfa/LP2DPBO2024C2/blob/main/Diagram%20Pewarisan%20.jpg)<br>
